@@ -1,6 +1,6 @@
 rg = {
-name = "renurg"
-location = "east us"
+name = "anujrg"
+location = "west us"
 
 
 }
